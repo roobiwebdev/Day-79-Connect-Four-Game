@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Space Grotesk", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #7945ff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.2;
+  }
+}
+.winning-animation {
+  animation: pulse 0.4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+#Oval-Copy-48 {
+  transform-origin: center;
+  animation: drop 0.3s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+@keyframes drop {
+  0% {
+    transform: translateY(-60px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
