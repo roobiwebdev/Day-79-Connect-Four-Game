@@ -1,50 +1,37 @@
-# React + TypeScript + Vite
+It's #Day79 of #100DaysOfCode Challenge
+ 
+the plan was to post it yesterday but there were a lot of issues I fixed them today tbh it was a challenging project but i did it🤟🔥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Connect Four Game 🔥
 
-Currently, two official plugins are available:
+Built with TypeScript ⚡️🔥
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features: 
 
-## Expanding the ESLint configuration
+✅ Play with computer 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+✅ It will wait 15sec to allow players to think .. then it will turn to the next player
 
-- Configure the top-level `parserOptions` property like this:
+✅ You can quit, pause, continue, and restart the game
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+✅ Cool animations 
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+✅ Cool bg music
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+Game Rules:
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+🔹 When you click on a circle, it won't get painted immediately Instead, the disc will drop to the lowest available spot in the column because the game counts the discs column by column to determine a win.
+
+🔹 The first player to connect 4 discs in a row (horizontally, vertically, or diagonally) wins.
+
+Read more in the game rules section...
+
+Guys this is a dope project🔥Pls check it out and lemme know wht y'all think ⚡️👍
+
+
+
+Live Link (https://day-79-connect-four-game.vercel.app/)
+
+
+![Screenshot 2025-01-16 124256](https://github.com/user-attachments/assets/f880a2ca-4665-45bc-be6d-ffc68031c243)
+
