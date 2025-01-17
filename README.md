@@ -1,6 +1,5 @@
 It's #Day79 of #100DaysOfCode Challenge
  
-the plan was to post it yesterday but there were a lot of issues I fixed them today tbh it was a challenging project but i did it🤟🔥
 
 Connect Four Game 🔥
 
