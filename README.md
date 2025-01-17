@@ -33,5 +33,20 @@ Guys this is a dope projectðŸ”¥Pls check it out and lemme know wht y'all think â
 Live Link (https://day-79-connect-four-game.vercel.app/)
 
 
-![Screenshot 2025-01-16 124256](https://github.com/user-attachments/assets/f880a2ca-4665-45bc-be6d-ffc68031c243)
 
+![Screenshot 2025-01-16 124356](https://github.com/user-attachments/assets/6d51c339-959a-40a3-b0d9-4c274751908d)
+
+
+
+![Screenshot 2025-01-16 124211](https://github.com/user-attachments/assets/cb229bd5-32ed-4810-bbe8-e0783e12ae31)
+
+
+
+![Screenshot 2025-01-16 124236](https://github.com/user-attachments/assets/d1cca98e-b14f-4795-9020-41f3bc071986)
+
+
+![Screenshot 2025-01-16 124448](https://github.com/user-attachments/assets/ff5de8ae-1cf7-4b44-bea6-b44576835dff)
+
+
+
+![Screenshot 2025-01-16 124256](https://github.com/user-attachments/assets/47689e77-7874-40f2-9a02-e330a6174ed3)
