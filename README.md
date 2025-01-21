@@ -21,6 +21,7 @@ Game Rules:
 
 🔹 When you click on a circle, it won't get painted immediately Instead, the disc will drop to the lowest available spot in the column because the game counts the discs column by column to determine a win.
 
+
 🔹 The first player to connect 4 discs in a row (horizontally, vertically, or diagonally) wins.
 
 Read more in the game rules section...
