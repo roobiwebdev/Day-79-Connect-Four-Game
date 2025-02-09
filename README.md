@@ -48,5 +48,4 @@ Live Link (https://day-79-connect-four-game.vercel.app/)
 ![Screenshot 2025-01-16 124448](https://github.com/user-attachments/assets/ff5de8ae-1cf7-4b44-bea6-b44576835dff)
 
 
-
 ![Screenshot 2025-01-16 124256](https://github.com/user-attachments/assets/47689e77-7874-40f2-9a02-e330a6174ed3)
