@@ -19,7 +19,6 @@ Features:
 ✅ Cool bg music
 
 Game Rules:
-
 🔹 When you click on a circle, it won't get painted immediately Instead, the disc will drop to the lowest available spot in the column because the game counts the discs column by column to determine a win.
 
 
